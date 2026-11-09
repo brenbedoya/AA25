@@ -1,0 +1,10 @@
+# Imágenes subidas por los usuarios (se conserva solo la protección)
+uploads/*
+!uploads/.htaccess
+!uploads/.gitkeep
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
